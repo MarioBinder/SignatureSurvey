@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignatureSurveys", "SignatureSurveys\SignatureSurveys.csproj", "{291953D6-1963-41E3-832D-BDC684FAFCB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{291953D6-1963-41E3-832D-BDC684FAFCB5}.Debug|x86.ActiveCfg = Debug|x86
+		{291953D6-1963-41E3-832D-BDC684FAFCB5}.Debug|x86.Build.0 = Debug|x86
+		{291953D6-1963-41E3-832D-BDC684FAFCB5}.Release|x86.ActiveCfg = Release|x86
+		{291953D6-1963-41E3-832D-BDC684FAFCB5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = 444e758f-5585-4cd7-b1ed-6297a89f8968
+	EndGlobalSection
+EndGlobal
